@@ -1,4 +1,4 @@
-# FFCNet (MICCAI2022)
+# FFCNet
 FFCNet: Fourier Transform-Based Frequency Learning and Complex Convolutional Network for Colon Disease Classification
 
 Our paper has been accepted by MICCAI 2022.
