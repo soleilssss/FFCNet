@@ -23,3 +23,9 @@ best_path = The path where the model with the best result on the validation set 
 First go into the `train_test` and adapt all the paths to match your file system and the download locations of training and test sets.
 
 Then python train_test.py to train your dataset.
+
+## Citation
+
+If you find the code useful for your research, please cite our paper.
+
+Wang, Kai-Ni, et al. "Ffcnet: Fourier transform-based frequency learning and complex convolutional network for colon disease classification." International Conference on Medical Image Computing and Computer-Assisted Intervention. Cham: Springer Nature Switzerland, 2022.
